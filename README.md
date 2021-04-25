@@ -1,5 +1,8 @@
 # node.js_training
 
+### API 문서 주소 : https://www.notion.so/e4902d1a8b0e47dd866fb7eafbd0a8ab?v=366742f224424fee80ca14235dfc38a3
+(표에서 첫번째 열, Method를 확인하면 uri 예시와 respond 예시를 확인할 수 있도록 해두었다.
+
 ## 사용 방법
 
 1. 기본 설정
